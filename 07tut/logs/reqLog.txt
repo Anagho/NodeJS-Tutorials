@@ -1,7 +1,22 @@
-20221031	11:41:27	ce0f7563-debe-4fac-b152-f9c2d4a16f2d	/css/style.css	GET
-20221031	11:41:30	35cc9e3a-6f0e-466c-a9e2-0216cd1c6d4d	/img/img1.jpg	GET
-20221031	11:41:35	dbe7b984-d453-46af-8211-2c6d68e6dcff	/favicon.ico	GET
-20221031	11:43:29	3ccb7199-a176-40d3-8b92-036af2542434	/new-page	GET
-20221031	11:44:21	a983b495-6ca4-48bd-86a2-bfd280d700c5	/new-page	GET
-20221031	11:44:21	ed09fda0-3982-46a6-895c-dfa28730ffd8	/img/img1.jpg	GET
-20221031	11:44:21	a7c714b7-8e6b-4b91-95d4-91aae29e10fd	/css/style.css	GET
+20221031	16:59:47	449c95cc-ae18-45ec-92b3-d6eee8fd4e80	GET	undefined	/
+20221031	16:59:50	0f1273e0-f8a6-4d9f-a7c1-2b10343fa5a9	GET	undefined	/css/style.css
+20221031	17:00:16	faff4030-a90d-4e1b-b344-60ea634d5a32	GET	undefined	/
+20221031	17:00:17	e45bdb57-0816-4f90-bd8f-e2710b931573	GET	undefined	/css/style.css
+20221031	17:03:33	c16e7523-9e43-4bbc-b3d4-b639071510f5	OPTIONS	https://www.google.com	/
+20221031	17:03:34	aafaa01b-d4ff-47ad-b0ad-0d250260c277	GET	https://www.google.com	/
+20221031	17:13:49	a8e7915c-89dd-4a0d-a40c-435154c4d447	OPTIONS	https://www.google.com	/
+20221031	17:13:49	505d2ac0-5dc7-4c23-9e22-b0c27609c6e4	GET	https://www.google.com	/
+20221031	17:14:18	0c608143-7e63-47d1-8250-b35be1ed5d87	OPTIONS	https://www.google.com	/
+20221031	17:14:18	99b6f477-f0b2-44a5-94ef-4c4105b46eeb	GET	https://www.google.com	/
+20221031	17:14:48	faf65ff3-5ab0-4cbf-a07c-febe3611ad7b	OPTIONS	https://www.google.com	/
+20221031	17:14:48	cc6ee718-4aaf-42cd-8007-cd5267c2cc82	GET	https://www.google.com	/
+20221031	17:19:37	07e826d3-fe67-4cc4-b93e-6a76d6597d41	GET	undefined	/
+20221031	17:19:38	8879a322-f1b0-42d9-a290-0baa3582d8c2	GET	undefined	/css/style.css
+20221031	17:19:51	a4d79f28-938a-431d-bfd0-5f409e0fdf2f	GET	undefined	/
+20221031	17:20:03	4d27aec7-92c5-4d27-9a0e-f2f7e275db62	GET	undefined	/
+20221031	17:20:03	2241bd6f-5296-402a-9d37-6a51e4c12924	GET	undefined	/css/style.css
+20221031	17:25:50	45b65980-9113-4544-9c80-7667d46b6eec	GET	undefined	/
+20221031	17:26:27	1c436c15-1592-438b-a1e9-f8fdd3ffd323	GET	undefined	/
+20221031	17:26:27	f1a46c73-8e0a-4397-9051-4a7bdc67c760	GET	undefined	/css/style.css
+20221031	17:27:56	3350a46d-a762-49a8-baa8-a4681a0c55fb	GET	undefined	/dav
+20221031	17:27:56	c2e74671-efcb-461b-bcfa-032552b8524f	GET	undefined	/css/style.css

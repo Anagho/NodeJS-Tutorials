@@ -16,5 +16,8 @@ There are three types of middlewares:
 ```javascript
     app.use(express.urlencoded({ extended: false }))
 ```
+    app.use() does not accepts regex
+2. **app.all()**
+   The app.all('/*') is basically used for routing. It is used when we want to redirect to a 404 not found page. This applies to all htttp methods at once
 
 
