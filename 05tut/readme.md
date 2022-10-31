@@ -1,8 +1,8 @@
-##### Tuturial 5
+##### Tutorial 5
 # Creating a Web Server
-This tutrial is all about creating a nodejs web server from scratch and serving all kinds of files and pages.
+This tutorial is all about creating a nodejs web server from scratch and serving all kinds of files and pages.
 ### Common Core Modules Used
-* file system & filse system promises
+* file system & file system promises
 * file path
 * http
 ```javascript
